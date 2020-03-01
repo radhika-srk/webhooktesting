@@ -6,3 +6,4 @@ COPY scorekeeper.js /usr/share/nginx/html/
 COPY style.css /usr/share/nginx/html/
 #testingtestingw
 #secondtry
+echo docker 
